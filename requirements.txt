@@ -4,3 +4,4 @@ fastapi
 uvicorn
 TikTokApi==6.0.0
 httpx
+playwright==1.40.0
